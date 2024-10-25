@@ -1,0 +1,7 @@
+*.log
+
+parkage-lock.json/
+
+
+node-modules/*.xlsx
+
